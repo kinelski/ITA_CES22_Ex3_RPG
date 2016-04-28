@@ -1,0 +1,4 @@
+ita_ces22_ex3_rpg.Pirate
+ita_ces22_ex3_rpg.ITA_CES22_Ex3_RPG
+ita_ces22_ex3_rpg.Monster
+ita_ces22_ex3_rpg.Nessie
